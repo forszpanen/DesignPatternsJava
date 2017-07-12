@@ -1,4 +1,4 @@
-package factorymethod1;
+package creational.factorymethod;
 
 
 class CarBMW extends Car {
