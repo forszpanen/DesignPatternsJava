@@ -13,7 +13,7 @@ public class Main {
 
         AbstractFactory abstractFactory = AbstractFactory.getFactory(AbstractFactory.E46);
 
-        System.out.println(abstractFactory.E46);
+        System.out.println(AbstractFactory.E46);
         CarEngine carEngine = abstractFactory.createEngine();
         System.out.println(carEngine.toString());
         CarDoor carDoor = abstractFactory.createDoor();
