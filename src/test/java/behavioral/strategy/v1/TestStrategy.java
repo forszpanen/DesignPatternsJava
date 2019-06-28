@@ -1,10 +1,15 @@
-package behavioral.strategy1;
+package behavioral.strategy.v1;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestStrategy1 {
+import behavioral.strategy.v1.ConcreteStrategyAdd;
+import behavioral.strategy.v1.ConcreteStrategyMultiply;
+import behavioral.strategy.v1.ConcreteStrategySubtract;
+import behavioral.strategy.v1.Context;
+
+public class TestStrategy {
 
 	@Test
 	public void test() {

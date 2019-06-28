@@ -1,4 +1,4 @@
-package behavioral.command1;
+package behavioral.command.v1;
 
 public abstract class Command {
 	protected Application app;

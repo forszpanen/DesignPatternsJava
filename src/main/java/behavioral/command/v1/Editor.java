@@ -1,4 +1,4 @@
-package behavioral.command1;
+package behavioral.command.v1;
 
 public class Editor {
 	private String text;

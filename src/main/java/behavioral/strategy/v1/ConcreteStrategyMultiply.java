@@ -1,4 +1,4 @@
-package behavioral.strategy1;
+package behavioral.strategy.v1;
 
 public class ConcreteStrategyMultiply implements Strategy{
 

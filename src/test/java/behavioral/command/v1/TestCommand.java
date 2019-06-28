@@ -1,10 +1,12 @@
-package behavioral.command1;
+package behavioral.command.v1;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestCommand1 {
+import behavioral.command.v1.Application;
+
+public class TestCommand {
 
 	@Test
 	public void test() {
